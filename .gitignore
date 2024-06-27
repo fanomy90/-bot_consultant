@@ -92,4 +92,5 @@ db.sqlite3
 /testdb.sqlite3
 .python-version
 client_secrets.json
+Config.py
 
