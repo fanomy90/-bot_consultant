@@ -93,4 +93,6 @@ db.sqlite3
 .python-version
 client_secrets.json
 Config.py
+Config
+.tmp
 
